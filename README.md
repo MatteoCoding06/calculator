@@ -5,7 +5,7 @@ Supporta le operazioni base: **addizione, sottrazione, moltiplicazione, division
 
 ## 🚀 Demo
 
-> Apri `index.html` in un browser per usare la calcolatrice.
+🔗 **Live:** [https://matteocoding06.github.io/calculator/](https://matteocoding06.github.io/calculator/)
 
 ## ✨ Funzionalità
 
